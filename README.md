@@ -1,4 +1,4 @@
-# riverpodtest
+# Riverpod Practice Project
 flutter pub get
 flutter run
 
